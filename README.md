@@ -57,7 +57,7 @@ Dataset chứa các bài viết y tế tiếng Việt được gán nhãn nhằm
 # 5. Hướng dẫn cài đặt chương trình
 > * **Bước 1:** Clone project [FakeNewDetections_YTeSucKhoe](https://github.com/nguyencongviet-sv/FakeNewDetections_YTeSucKhoe)
 > * **Bước 2:** Cài đặt tất cả thư viện từ requirements.txt.
-> * **Bước 3:** Tải tập dữ liệu Dataset từ Kaggle, sau đó lưu vào dataset với tên YTe.csv.
+> * **Bước 3:** Tải tập dữ liệu Dataset từ [Kaggle](https://www.kaggle.com/datasets/leviettrieu369/vietnamese-medical-fake-news-dataset), sau đó lưu vào dataset với tên YTe.csv.
 > * **Bước 4:** Tiến hành chạy file src/main.py
 # 6. Kết quả 
 ## K_Fold 
