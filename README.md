@@ -13,8 +13,6 @@ Dự án xây dựng mô hình phát hiện tin giả tiếng Việt sử dụng
 ---
 # 2. Yêu cầu môi trường
 
-## 2.1. Python
-
 Dự án được phát triển trên:
 
 ```
