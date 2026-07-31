@@ -57,7 +57,7 @@ https://www.kaggle.com/datasets/leviettrieu369/vietnamese-medical-fake-news-data
 
 Dataset chứa các bài viết y tế tiếng Việt được gán nhãn nhằm phục vụ bài toán phát hiện tin giả.
 # 5. Hướng dẫn cài đặt chương trình
-> * **Bước 1:** Clone project [FakeNewDetections_YTeSucKhoe](https://github.com/VietNguyen2003-UIT/Java_Project_RestaurantMS)
+> * **Bước 1:** Clone project [FakeNewDetections_YTeSucKhoe](https://github.com/nguyencongviet-sv/FakeNewDetections_YTeSucKhoe)
 > * **Bước 2:** Cài đặt tất cả thư viện từ requirements.txt.
 > * **Bước 3:** Tải tập dữ liệu Dataset từ Kaggle, sau đó lưu vào dataset với tên YTe.csv.
 > * **Bước 4:** Tiến hành chạy file src/main.py
