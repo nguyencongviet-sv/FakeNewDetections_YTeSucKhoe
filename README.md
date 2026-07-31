@@ -61,3 +61,10 @@ Dataset chứa các bài viết y tế tiếng Việt được gán nhãn nhằm
 > * **Bước 2:** Cài đặt tất cả thư viện từ requirements.txt.
 > * **Bước 3:** Tải tập dữ liệu Dataset từ Kaggle, sau đó lưu vào dataset với tên YTe.csv.
 > * **Bước 4:** Tiến hành chạy file src/main.py
+# 6. Kết quả 
+## K_Fold 
+![EditFood](./src/kflod.png)
+## Learning Cure 
+![EditFood](./src/Untitled.png)
+## Đánh giá trên tập kiểm thử 
+![EditFood](./src/confusion.png)
