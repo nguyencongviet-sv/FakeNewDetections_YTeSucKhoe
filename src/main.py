@@ -232,7 +232,7 @@ def eval_on_test(tfid, svc_model, X_test, y_test):
 
 
 #========================================================
-file_path = '/content/drive/MyDrive/KPDL/YTe.csv'
+file_path = '../dataset/YTe.csv'
 
 #Load dữ liệu
 df = load_and_preprocess_data(file_path)
