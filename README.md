@@ -61,8 +61,8 @@ Dataset chứa các bài viết y tế tiếng Việt được gán nhãn nhằm
 > * **Bước 4:** Tiến hành chạy file src/main.py
 # 6. Kết quả 
 ## K_Fold 
-![EditFood](./src/kflod.png)
+![EditFood](./image/kflod.png)
 ## Learning Cure 
-![EditFood](./src/Untitled.png)
+![EditFood](./image/Untitled.png)
 ## Đánh giá trên tập kiểm thử 
-![EditFood](./src/confusion.png)
+![EditFood](./image/confusion.png)
